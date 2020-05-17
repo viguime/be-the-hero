@@ -9,6 +9,6 @@ Then follow these steps to install a forked project:
 1. Open a Terminal and `cd` to the location of the cloned repo
 1. Run 
 ```sh
-yarn global add gitpkg
+yarn
 ```
-to install any dependencies
+1.to install any dependencies
