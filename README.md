@@ -11,4 +11,4 @@ Then follow these steps to install a forked project:
 ```sh
 yarn
 ```
-1.to install any dependencies
+   to install any dependencies
